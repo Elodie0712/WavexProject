@@ -2,6 +2,7 @@
 # WavexProject
 
 In this project, I created Sales and HR reports based on a dataset using Power BI.
+https://app.powerbi.com/groups/me/reports/0d8c302d-bd3c-4b47-9efe-a87434ce0774/ReportSection?experience=power-bi
 
 ## Table of Contents
 1. [Sales Report](#sales-report)
@@ -67,57 +68,54 @@ In this project, I created Sales and HR reports based on a dataset using Power B
   3. Create a sales forecast for the next two years
 
 ## Step 2 - Import Data
-[Details on importing data]
 
 ## Step 3 - Data Transformation
 This section outlines all the steps involved in the Data Transformation phase of this project.
 
 ### 1. Rename Tables
-[Details on renaming tables]
 
 ### 2. Remove Top Rows
-[Details on removing top rows]
+
 
 ### 3. Remove Bottom Rows
-[Details on removing bottom rows]
+
 
 ### 4. Use First Row as Header
-[Details on using the first row as a header]
+
 
 ### 5. Rename Columns
-[Details on renaming columns]
+
 
 ### 6. Unpivot Columns
 #### A1. Unpivot Category Table
-[Details on unpivoting the category table]
 
 #### B1. Unpivot ProductName Table
-[Details on unpivoting the ProductName table]
+
 
 ### 7. Column Quality
-[Details on checking column quality]
+
 
 ### 8. Remove Blank Rows
-[Details on removing blank rows]
+
 
 ### 9. Remove Duplicates
-[Details on removing duplicates]
+
 
 ### 10. Append Queries
-[Details on appending queries]
+
 
 ### 11. Choose Columns
-[Details on choosing columns]
+
 
 ### 12. Merge Queries
-[Details on merging queries]
+
 
 ### 13. Clean (Format)
-[Details on cleaning and formatting data]
+
 
 ### 14. Split Column
 #### A1. Split by Delimiter
-[Details on splitting columns by delimiter]
+
 
 #### A2. Rename New Columns
 [Details on renaming new columns]
@@ -132,14 +130,14 @@ This section outlines all the steps involved in the Data Transformation phase of
 [Details on hiding old columns]
 
 ### 15. Trim
-[Details on trimming data]
+
 
 ### 16. Replace Values
 #### A. Replace values in Country Column
 - Replace “US” with “United States” and “UK” with “United Kingdom” in the Country column.
 
 #### B. Replace values in City Column
-[Details on replacing values in the City column]
+
 
 ### 17. Capitalize Each Word
 - Capitalize each word in the “City” column.
@@ -160,4 +158,4 @@ In this section, I created my calculated measures to be used in the visualizatio
 - **Example**: `TotalProductionCostColumn = Sales[CostPerUnit($)]*Sales[QuantitySold]`
 
 ## Step 5 - Creating Visualizations & Reports
-[Details on creating visualizations and reports]
+
