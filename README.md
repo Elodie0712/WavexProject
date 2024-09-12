@@ -2,7 +2,7 @@
 # WavexProject
 
 In this project, I created Sales and HR reports based on a dataset using Power BI.
-https://app.powerbi.com/groups/me/reports/0d8c302d-bd3c-4b47-9efe-a87434ce0774/ReportSection?experience=power-bi
+Disclaimer: I do not have the appropriate credentials to publish this dashboard.
 
 ## Sales Report
 ![Sales Report](https://github.com/user-attachments/assets/f81fc73f-f124-4d74-962f-a94903f2cde7)
